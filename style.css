@@ -1,0 +1,39 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+}
+.card1{
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 1em;
+}
+.card2{
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+    padding: 2px;
+    text-align: center;
+    box-sizing: border-box;
+    margin:1em;
+}
+.card3{
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+    padding: 2px;
+    box-sizing: border-box;
+    margin: 1em;
+    text-align: center;
+
+}
+img{
+    display: block;
+    width: 230px;
+    height: 120px;
+    padding: 5px
+    
+}
